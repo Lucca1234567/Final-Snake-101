@@ -1,0 +1,19 @@
+#canvas{
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  color: lightblue;
+  font-family: sans-serif;
+
+}
+html{
+  background-color: pink;
+
+}
+
+.content {
+  max-width: 600px;
+  margin: auto;
+}
